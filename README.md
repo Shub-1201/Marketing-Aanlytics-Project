@@ -1,2 +1,2 @@
-# Marketing-Aanlytics-Project
+# Marketing-Analytics-Project
 MAP Project
